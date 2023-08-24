@@ -1,7 +1,6 @@
 package com.epam.mjc.collections.map;
 
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class FunctionValueFinder {
     public boolean isFunctionValuePresent(List<Integer> sourceList, int requiredValue) {
